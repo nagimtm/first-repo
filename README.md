@@ -1,8 +1,8 @@
 # first-repo
 this honey first repo
 I'm doing some change
-Second change
-##List
+
+## List
 ### Order List
 1.First Item
 2.Second Item
